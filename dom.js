@@ -4,5 +4,5 @@ function show(){
 }
 //dom 11th march 26
 function changecolor(){
-    document.getElementById('text').style.color"red";
+    document.getElementById('text').style.color;
 }
